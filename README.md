@@ -1,2 +1,2 @@
-# Demons-Legends-Official-
-The Official repository and wiki of Demon's Legends
+# Demons-Legend-Official-
+The Official repository of Demon's Legend
