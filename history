@@ -1,1 +1,7 @@
+Quest Guideline :
 
+Tanjitsu : Hello <Answers : Hi, Goodbye>
+         : <Hi> : Please, can you find me a big basket? <Answers : 'Yes, for sure', Goodbye>
+         : <'Yes, for sure'> : Great! I'l give you 200 Yun and my map, good luck!
+         : <Goodbye> --> The player exits the dialogue
+         
